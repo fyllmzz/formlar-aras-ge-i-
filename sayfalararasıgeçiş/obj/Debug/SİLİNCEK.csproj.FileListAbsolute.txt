@@ -1,0 +1,24 @@
+C:\Users\Casper\Desktop\SİLİNCEK\SİLİNCEK\bin\Debug\SİLİNCEK.exe.config
+C:\Users\Casper\Desktop\SİLİNCEK\SİLİNCEK\bin\Debug\SİLİNCEK.exe
+C:\Users\Casper\Desktop\SİLİNCEK\SİLİNCEK\bin\Debug\SİLİNCEK.pdb
+C:\Users\Casper\Desktop\SİLİNCEK\SİLİNCEK\obj\Debug\SİLİNCEK.csprojAssemblyReference.cache
+C:\Users\Casper\Desktop\SİLİNCEK\SİLİNCEK\obj\Debug\SİLİNCEK.Form1.resources
+C:\Users\Casper\Desktop\SİLİNCEK\SİLİNCEK\obj\Debug\SİLİNCEK.Form2.resources
+C:\Users\Casper\Desktop\SİLİNCEK\SİLİNCEK\obj\Debug\SİLİNCEK.Properties.Resources.resources
+C:\Users\Casper\Desktop\SİLİNCEK\SİLİNCEK\obj\Debug\SİLİNCEK.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\SİLİNCEK\SİLİNCEK\obj\Debug\SİLİNCEK.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\SİLİNCEK\SİLİNCEK\obj\Debug\SİLİNCEK.exe
+C:\Users\Casper\Desktop\SİLİNCEK\SİLİNCEK\obj\Debug\SİLİNCEK.pdb
+C:\Users\Casper\Desktop\SİLİNCEK\SİLİNCEK\obj\Debug\SİLİNCEK.Form3.resources
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\sayfalar arası geçiş\SİLİNCEK\bin\Debug\SİLİNCEK.exe.config
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\sayfalar arası geçiş\SİLİNCEK\bin\Debug\SİLİNCEK.exe
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\sayfalar arası geçiş\SİLİNCEK\bin\Debug\SİLİNCEK.pdb
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\sayfalar arası geçiş\SİLİNCEK\obj\Debug\SİLİNCEK.csprojAssemblyReference.cache
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\sayfalar arası geçiş\SİLİNCEK\obj\Debug\SİLİNCEK.Form1.resources
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\sayfalar arası geçiş\SİLİNCEK\obj\Debug\SİLİNCEK.Form2.resources
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\sayfalar arası geçiş\SİLİNCEK\obj\Debug\SİLİNCEK.Properties.Resources.resources
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\sayfalar arası geçiş\SİLİNCEK\obj\Debug\SİLİNCEK.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\sayfalar arası geçiş\SİLİNCEK\obj\Debug\SİLİNCEK.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\sayfalar arası geçiş\SİLİNCEK\obj\Debug\SİLİNCEK.exe
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\sayfalar arası geçiş\SİLİNCEK\obj\Debug\SİLİNCEK.pdb
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\sayfalar arası geçiş\SİLİNCEK\obj\Debug\SİLİNCEK.HOŞGELDİNİZ.resources
